@@ -1,0 +1,35 @@
+address of long double: 0x28cc10 HIGHEST
+12
+address of double 0x28cc08
+8
+address of float 0x28cc04
+4
+address of long 0x28cc00 
+4
+address of int 0x28cbfc  
+4
+address of short 0x28cbfa
+2
+charVal1: 0x28cbf9
+1
+charVal2: 0x28cbf8
+1
+address of bool 0x28cbf7
+
+
+address of long double ptr: 0x28cbf0
+4
+address of double ptr: 0x28cbec
+4
+address of float ptr: 0x28cbe8
+4
+address of long ptr: 0x28cbe4
+4
+address of int ptr: 0x28cbe0
+4
+address of short ptr: 0x28cbdc
+4
+address of char ptr: 0x28cbd8
+4
+address of bool ptr: 0x28cbd4 LOWEST
+4

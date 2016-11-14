@@ -1,0 +1,1 @@
+fiba.d: ../fiba.cpp
